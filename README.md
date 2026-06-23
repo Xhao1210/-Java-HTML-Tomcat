@@ -108,6 +108,8 @@ mvn clean package -DskipTests
 ```bash
 start_server.bat
 ```
+### 5. 启动服务
+保证你的环境正确，并让AI编辑器知道你的bin目录地址，直接要求AI编辑器启动就行，下面乱七八糟的看都看不懂，别JB浪费时间，全交给AI！！！
 
 #### 方法二：手动启动
 
@@ -228,7 +230,7 @@ http://localhost:8080/hair-shop/
 
 ### 开发环境
 
-推荐使用 IntelliJ IDEA 或 Eclipse 进行开发。
+你直接用TraeCN。
 
 ### 代码结构
 
@@ -260,12 +262,9 @@ mvn test
 |------|------|----------|
 | 1.0 | 2026-06-23 | 初始版本 |
 
-## 许可证
-
-MIT License
 
 ---
 
-**项目作者**: 美发店管理系统开发团队
+**项目作者**: Xhao1210
 
-**联系邮箱**: support@hairshop.com
+**联系邮箱**: wang981294598@163.com
